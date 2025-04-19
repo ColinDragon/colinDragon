@@ -7,10 +7,10 @@
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ## Projects
-- ![Web Scraping](https://github.com/ColinDragon/web-scraper): A Python-based web scraper using Selenium.
+- [Web Scraping](https://github.com/ColinDragon/web-scraper): A Python-based web scraper using Selenium.
 - [CyberVisuals](https://github.com/ColinDragon/CyberVisuals): Visualizations for cybersecurity topics.
-- ![Resource Monitor](https://github.com/ColinDragon/AquaResourceMonitor): Resource Monitor in a blue color scheme.
-- ![Automatic Vulnerability Scanner](https://img.shields.io/badge/AUTOMATIC%20VULNERABILITY%20SCANNER-In%20Progress-blue?style=for-the-badge&logo=security&logoColor=white)
+- [Resource Monitor](https://github.com/ColinDragon/AquaResourceMonitor): Resource Monitor in a blue color scheme.
+- [Automatic Vulnerability Scanner](https://img.shields.io/badge/AUTOMATIC%20VULNERABILITY%20SCANNER-In%20Progress-blue?style=for-the-badge&logo=security&logoColor=white)
 
 
 ![Last Commit](https://img.shields.io/badge/Last%20Commit-2025--04--18-blue?logo=git&logoColor=brightwhite&style=for-the-badge)
