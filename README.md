@@ -9,8 +9,6 @@
 
 ![Web Scraping Badge](https://img.shields.io/badge/Web%20Scraping-Selenium-green.svg?logo=selenium)
 
-![Last Commit](https://img.shields.io/last-commit/github.com/ColinDragon/ABOUTME))
-
-
+![Last Commit](https://img.shields.io/badge/Last%20Commit-2025--04--18-blue?logo=git&logoColor=white&style=for-the-badge)
 
 ![License](https://img.shields.io/badge/License-MIT-yellowgreen)
