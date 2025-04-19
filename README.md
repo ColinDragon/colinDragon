@@ -18,8 +18,6 @@
 
 
 
-![Github Followers](https://img.shields.io/github/followers/colinDragon?labelColor=darkgrey&color=blue)
-
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColinDragon&show_icons=true&hide_title=true)
 
 
@@ -29,5 +27,5 @@
 - [Email](colinmcka03@gmail.com)
 
 
-
+![Github Followers](https://img.shields.io/github/followers/colinDragon?labelColor=darkgrey&color=blue)
 ![License](https://img.shields.io/badge/License-MIT-yellowgreen)
