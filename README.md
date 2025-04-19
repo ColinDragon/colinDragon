@@ -1,6 +1,6 @@
 # ABOUTME
 ![static Badge](https://img.shields.io/badge/Colin's-Profile-blue) 
-![Github Followers](https://img.shields.io/github/followers/colinDragon?style=for-the-badge&labelColor=darkgrey&color=blue)
+![Github Followers](https://img.shields.io/github/followers/colinDragon?labelColor=darkgrey&color=blue)
 
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Tools-brightwhite.svg?logo=security)
 
