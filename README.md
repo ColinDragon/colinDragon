@@ -1,5 +1,4 @@
-# ABOUTME
-![static Badge](https://img.shields.io/badge/Colin's-Profile-blue) 
+![static Badge](https://img.shields.io/badge/Colin-blue) 
 
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Tools-brightwhite.svg?logo=security)
 
