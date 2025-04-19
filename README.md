@@ -10,8 +10,8 @@
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ## Projects
 
-- ![Automatic Vulnerability Scanner](https://img.shields.io/badge/Automatic%20Vulnerability%20Scanner-Active%20Development-FF6347?style=for-the-badge&logo=security&logoColor=white)
-- ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Python%20Selenium-4B0082?style=for-the-badge&logo=python&logoColor=white) A Python-based web scraper using Selenium.
+- ![Automatic Vulnerability Scanner](https://img.shields.io/badge/Automatic%20Vulnerability%20Scanner-Active%20Development-FF6347?style=for-the-badge&logoColor=white) Self-Explanatory.
+- ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Python%20Selenium-FF6347?style=for-the-badge&logoColor=white) A Python-based web scraper using Selenium.
 - [CyberVisuals](https://github.com/ColinDragon/CyberVisuals): Visualizations for cybersecurity topics.
 - ![Resource Monitor](https://img.shields.io/badge/Resource%20Monitor-Real%20Time%20Monitoring-32CD32?logoColor=white)(https://github.com/ColinDragon/AquaResourceMonitor)
 - ![TCP Handshake Visualization](https://github.com/ColinDragon/CyberVisuals/blob/main/Colin's_MITM_Attack_Simulation.py)
