@@ -9,7 +9,7 @@
 
 ![Web Scraping Badge](https://img.shields.io/badge/Web%20Scraping-Selenium-green.svg?logo=selenium)
 
-![Last Commit](https://img.shields.io/github/last-commit/ColinDragon/ABOUTME)
+![Last Commit](https://img.shields.io/github/last-commit/ColinDragon/aboutme)
 
 
 
