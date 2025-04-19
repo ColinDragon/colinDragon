@@ -18,7 +18,7 @@
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColinDragon&show_icons=true&hide_title=true)
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/cmckay638)
+- [LinkedIn](https://www.linkedin.com/in/colinmckay638/)
 - [Email](colinmcka03@gmail.com)
 
 ![Github Followers](https://img.shields.io/github/followers/colinDragon?labelColor=darkgrey&color=blue)
